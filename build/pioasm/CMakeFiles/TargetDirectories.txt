@@ -1,0 +1,3 @@
+/home/qed/Projects/microcontrollers/pi-pico/weight-measurer/build/pioasm/CMakeFiles/pioasm.dir
+/home/qed/Projects/microcontrollers/pi-pico/weight-measurer/build/pioasm/CMakeFiles/edit_cache.dir
+/home/qed/Projects/microcontrollers/pi-pico/weight-measurer/build/pioasm/CMakeFiles/rebuild_cache.dir
